@@ -1,5 +1,6 @@
 # Result on CloudFormation:
-![image](https://github.com/baominh03/c4-final-project-starter-code/assets/39981269/f696c702-af11-4321-896f-b33004b2653a)
+![image](https://github.com/baominh03/c4-final-project-starter-code/assets/39981269/70c2bea8-896b-4789-b00d-86f9d114fcea)
+
 
 # Result on FrontEnd testing API:
 ![image](https://github.com/baominh03/c4-final-project-starter-code/assets/39981269/2b27f846-f53e-4c6e-bcc4-7c80a74550de)
