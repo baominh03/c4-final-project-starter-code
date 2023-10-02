@@ -55,6 +55,7 @@ export class Todos extends React.PureComponent<TodosProps, TodosState> {
         todos: [...this.state.todos, newTodo],
         newTodoName: ''
       })
+      alert('Todo creation Success')
     } catch {
       alert('Todo creation failed')
     }
@@ -63,6 +64,7 @@ export class Todos extends React.PureComponent<TodosProps, TodosState> {
   onTodoDelete = async (todoId: string) => {
     try {
       await deleteTodo(this.props.auth.getIdToken(), todoId)
+      alert('Todo deletion Success')
       this.setState({
         todos: this.state.todos.filter(todo => todo.todoId !== todoId)
       })
