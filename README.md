@@ -1,3 +1,9 @@
+# Result on FrontEnd testing API:
+![image](https://github.com/baominh03/c4-final-project-starter-code/assets/39981269/2b27f846-f53e-4c6e-bcc4-7c80a74550de)
+![image](https://github.com/baominh03/c4-final-project-starter-code/assets/39981269/10b9f3ca-5d9e-49fb-9900-177756b28ad5)
+
+
+
 # Serverless TODO
 
 To implement this project, you need to implement a simple TODO application using AWS Lambda and Serverless framework. Search for all comments starting with the `TODO:` in the code to find the placeholders that you need to implement.
